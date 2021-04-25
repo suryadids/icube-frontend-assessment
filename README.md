@@ -1,4 +1,4 @@
-# iCUBE by SIRCLO Fronend Assessment by Suryadi
+# iCUBE by SIRCLO Frontend Assessment by Suryadi
 
 This is a basic [React.js](https://reactjs.org/) template, created using the **create-react-app** command.
 
